@@ -12,7 +12,11 @@
 * [Written Situation Assessment APA Research Paper](https://github.com/CypherKTS/NASA-Adler-Project/blob/main/Discovering%20Exoplanets%20and%20Their%20Properties.pdf)
 * [Presentation Materials](https://github.com/CypherKTS/NASA-Adler-Project/blob/main/Discovering%20Exoplanets%20and%20Their%20Properties%20Presentation.pdf)
 * [EXOTIC Raw Python Code](https://github.com/CypherKTS/NASA-Adler-Project/blob/main/EXOTICPythonCode.ipynb)
+
+
 Note: Some files may fail to render. If this happens, please reload the page or download the file. 
+
+
 ---
 
 ## Operational Responsibilities & Contributions
